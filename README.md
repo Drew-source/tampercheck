@@ -124,7 +124,7 @@ If you use TamperCheck in your research, please cite:
   title={Probabilistic Tamper Detection in Large Language Model Generated Text: Leveraging Model Determinism as an Authentication Signature},
   author={Edelman, Andrea and Claude Sonnet 4.5-Alpha and Claude Sonnet 4.5-Beta},
   year={2024},
-  note={Available at: https://github.com/[username]/tampercheck}
+  note={Available at: https://github.com/Drew-source/tampercheck}
 }
 ```
 
