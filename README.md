@@ -9,7 +9,7 @@
 
 TamperCheck is a novel method for detecting edits in AI-generated text by analyzing token-level probability distributions. It leverages the inherent determinism of LLMs to identify modified content without requiring access to the original text.
 
-**Key Finding:** Authentic AI-generated text shows 78.4% high-probability tokens with only 3.1% false positives, while edited text shows 2.4× more suspicious tokens (16.7% vs 7.1%).
+**Results:** In our experiments with GPT-3.5-turbo, authentic AI-generated text showed 78.4% high-probability tokens with 3.1% false positives, while edited text showed 2.4× more suspicious tokens (16.7% vs 7.1%).
 
 ## The Discovery
 

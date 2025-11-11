@@ -394,7 +394,7 @@
         </table>
         
         <div class="key-finding">
-            <strong>Key Finding 1:</strong> Authentic AI-generated text shows an average of <strong>78.4% HIGH probability tokens</strong> with only <strong>3.1% false positives</strong> (NOT_FOUND). This establishes a reliable baseline for tamper detection.
+            <strong>Result 1:</strong> In our experiments, authentic AI-generated text showed an average of <strong>78.4% HIGH probability tokens</strong> with only <strong>3.1% false positives</strong> (NOT_FOUND) across five diverse text categories. This establishes a baseline for tamper detection in similar contexts.
         </div>
         
         <h3>3.2 Edited Text Detection</h3>
@@ -446,7 +446,7 @@
         </table>
         
         <div class="key-finding">
-            <strong>Key Finding 2:</strong> Edited text shows <strong>16.7% suspicious tokens</strong> compared to <strong>7.1%</strong> in the original—a <strong>2.4× increase</strong> that provides a clear detection signal. The edited version also shows a 13.3 percentage point decrease in HIGH probability tokens.
+            <strong>Result 2:</strong> In our test case, edited text showed <strong>16.7% suspicious tokens</strong> compared to <strong>7.1%</strong> in the original—a <strong>2.4× increase</strong> that provided a clear detection signal. The edited version also showed a 13.3 percentage point decrease in HIGH probability tokens.
         </div>
         
         <h3>3.3 Specific Edit Detection</h3>
@@ -581,7 +581,7 @@
         </p>
         
         <div class="key-finding">
-            <strong>Core Contribution:</strong> We have shown that <strong>an LLM's inflexibility becomes its authentication signature</strong>. The model "knows" what it would naturally generate, and deviations from this pattern reveal tampering.
+            <strong>Key Finding:</strong> We demonstrate that <strong>an LLM's deterministic generation patterns can serve as an authentication signature</strong>. By analyzing token-level probabilities, we can detect deviations from the model's natural generation patterns, providing evidence of potential tampering. Our method shows promise for content authentication, though further validation across different models and contexts is needed.
         </div>
         
         <h2>Acknowledgments</h2>
