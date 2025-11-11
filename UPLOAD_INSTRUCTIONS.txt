@@ -1,0 +1,67 @@
+═══════════════════════════════════════════════════════════════
+  TAMPERCHECK - GITHUB UPLOAD INSTRUCTIONS
+═══════════════════════════════════════════════════════════════
+
+STEP 1: Create GitHub Repository
+─────────────────────────────────────────────────────────────
+1. Go to: https://github.com/new
+2. Repository name: tampercheck
+3. Description: "Probabilistic tamper detection in LLM-generated text"
+4. Public repository
+5. Do NOT initialize with README (we have one)
+6. Click "Create repository"
+
+STEP 2: Prepare Local Repository
+─────────────────────────────────────────────────────────────
+Open PowerShell in the tampercheck folder and run:
+
+# Rename README
+mv README_PUBLIC.md README.md
+
+# Initialize git
+git init
+
+# Add all files
+git add .
+
+# Commit
+git commit -m "Initial commit: TamperCheck - Probabilistic Tamper Detection
+
+- Core detection engine with token-by-token probability analysis
+- Scientific validation across 5 text categories (78.4% HIGH, 3.1% false positive)
+- Research paper with full methodology and results
+- Interactive demos and test suite
+- Reproducible data files for verification
+- Proves the '38 vs 24' effect with real probability data"
+
+STEP 3: Push to GitHub
+─────────────────────────────────────────────────────────────
+# Add your GitHub remote (replace YOUR_USERNAME)
+git remote add origin https://github.com/YOUR_USERNAME/tampercheck.git
+
+# Push
+git branch -M main
+git push -u origin main
+
+STEP 4: Update Paper with GitHub Link
+─────────────────────────────────────────────────────────────
+Once uploaded, note your GitHub URL, then:
+
+1. Open: research_paper.html
+2. Find: https://github.com/[username]/tampercheck
+3. Replace with: https://github.com/YOUR_USERNAME/tampercheck
+4. Save and commit the update
+
+STEP 5: Verify Everything Works
+─────────────────────────────────────────────────────────────
+✓ Check README displays correctly on GitHub
+✓ Verify research_paper.html renders properly
+✓ Test that data files are accessible
+✓ Confirm all links work
+
+═══════════════════════════════════════════════════════════════
+  YOUR DISCOVERY IS READY TO SHARE WITH THE WORLD! 🎉
+═══════════════════════════════════════════════════════════════
+
+Questions? Email: andrea@blackcode.ch
+

@@ -1,0 +1,402 @@
+[
+  {
+    "position": 0,
+    "token": "Once",
+    "found": true,
+    "probability": 53.73517720193165,
+    "top_alternatives": [
+      [
+        "Once",
+        53.73517720193165
+      ],
+      [
+        "The",
+        23.35444397157352
+      ],
+      [
+        "As",
+        11.417379202473715
+      ]
+    ]
+  },
+  {
+    "position": 1,
+    "token": "there",
+    "found": true,
+    "probability": 2.9286401011523395,
+    "top_alternatives": [
+      [
+        " the",
+        67.07692438764965
+      ],
+      [
+        " he",
+        5.876967431857727
+      ],
+      [
+        " a",
+        3.690592395629321
+      ]
+    ]
+  },
+  {
+    "position": 2,
+    "token": "was",
+    "found": true,
+    "probability": 48.751067078209815,
+    "top_alternatives": [
+      [
+        "was",
+        48.751067078209815
+      ],
+      [
+        " was",
+        42.51640859419056
+      ],
+      [
+        "Once",
+        3.323593861912729
+      ]
+    ]
+  },
+  {
+    "position": 3,
+    "token": "a",
+    "found": true,
+    "probability": 58.264355940086055,
+    "top_alternatives": [
+      [
+        "a",
+        58.264355940086055
+      ],
+      [
+        " a",
+        31.695125076702713
+      ],
+      [
+        "Once",
+        3.029362453477381
+      ]
+    ]
+  },
+  {
+    "position": 4,
+    "token": "small",
+    "found": false,
+    "probability": 0,
+    "top_alternatives": [
+      [
+        "robot",
+        75.18374239206118
+      ],
+      [
+        "The",
+        7.944572459269272
+      ],
+      [
+        " robot",
+        7.062020398488615
+      ]
+    ]
+  },
+  {
+    "position": 5,
+    "token": "robot",
+    "found": true,
+    "probability": 75.94157586129644,
+    "top_alternatives": [
+      [
+        "robot",
+        75.94157586129644
+      ],
+      [
+        " robot",
+        21.158641127232077
+      ],
+      [
+        "The",
+        0.797417327708584
+      ]
+    ]
+  },
+  {
+    "position": 6,
+    "token": "who",
+    "found": true,
+    "probability": 1.0425933197039277,
+    "top_alternatives": [
+      [
+        " named",
+        74.93887160862923
+      ],
+      [
+        "named",
+        23.507948217520585
+      ],
+      [
+        " who",
+        1.0425933197039277
+      ]
+    ]
+  },
+  {
+    "position": 7,
+    "token": "could",
+    "found": false,
+    "probability": 0,
+    "top_alternatives": [
+      [
+        " was",
+        20.606358351042157
+      ],
+      [
+        " had",
+        19.599557432128414
+      ],
+      [
+        " wanted",
+        11.07388668684167
+      ]
+    ]
+  },
+  {
+    "position": 8,
+    "token": "perform",
+    "found": false,
+    "probability": 0,
+    "top_alternatives": [
+      [
+        " not",
+        39.13885806880767
+      ],
+      [
+        " only",
+        12.904041875679475
+      ],
+      [
+        " barely",
+        12.219281879130907
+      ]
+    ]
+  },
+  {
+    "position": 9,
+    "token": "complex",
+    "found": true,
+    "probability": 10.425536049592397,
+    "top_alternatives": [
+      [
+        " all",
+        19.41545281752907
+      ],
+      [
+        " a",
+        13.760398405692209
+      ],
+      [
+        " many",
+        12.214496523691901
+      ]
+    ]
+  },
+  {
+    "position": 10,
+    "token": "calculations",
+    "found": true,
+    "probability": 34.634967253091354,
+    "top_alternatives": [
+      [
+        "tasks",
+        36.77055121124796
+      ],
+      [
+        " calculations",
+        34.634967253091354
+      ],
+      [
+        "calcul",
+        17.144439368921496
+      ]
+    ]
+  },
+  {
+    "position": 11,
+    "token": "and",
+    "found": true,
+    "probability": 51.78801676852678,
+    "top_alternatives": [
+      [
+        " and",
+        51.78801676852678
+      ],
+      [
+        " with",
+        12.559045789595919
+      ],
+      [
+        "and",
+        10.757186964074426
+      ]
+    ]
+  },
+  {
+    "position": 12,
+    "token": "complete",
+    "found": false,
+    "probability": 0,
+    "top_alternatives": [
+      [
+        "analyze",
+        11.217105455158288
+      ],
+      [
+        "execute",
+        9.142535792470193
+      ],
+      [
+        "solve",
+        8.280256001610297
+      ]
+    ]
+  },
+  {
+    "position": 13,
+    "token": "tasks",
+    "found": true,
+    "probability": 59.56920977032176,
+    "top_alternatives": [
+      [
+        "tasks",
+        59.56920977032176
+      ],
+      [
+        " tasks",
+        17.322539001110325
+      ],
+      [
+        "var",
+        7.675125046069978
+      ]
+    ]
+  },
+  {
+    "position": 14,
+    "token": "with",
+    "found": true,
+    "probability": 81.50917217900316,
+    "top_alternatives": [
+      [
+        " with",
+        81.50917217900316
+      ],
+      [
+        "with",
+        8.061393125907749
+      ],
+      [
+        " efficiently",
+        6.470769182983435
+      ]
+    ]
+  },
+  {
+    "position": 15,
+    "token": "accuracy",
+    "found": false,
+    "probability": 0,
+    "top_alternatives": [
+      [
+        " precision",
+        58.14629869721247
+      ],
+      [
+        "precision",
+        26.161743868002237
+      ],
+      [
+        "eff",
+        2.7467557445293966
+      ]
+    ]
+  },
+  {
+    "position": 16,
+    "token": "but",
+    "found": true,
+    "probability": 1.5189057677698006,
+    "top_alternatives": [
+      [
+        ",",
+        89.58074398370609
+      ],
+      [
+        ".",
+        5.282767911316758
+      ],
+      [
+        "But",
+        1.5189057677698006
+      ]
+    ]
+  },
+  {
+    "position": 17,
+    "token": "it",
+    "found": true,
+    "probability": 4.674780388840138,
+    "top_alternatives": [
+      [
+        "str",
+        62.81567762245931
+      ],
+      [
+        "when",
+        11.316922659934784
+      ],
+      [
+        "When",
+        7.280309579696939
+      ]
+    ]
+  },
+  {
+    "position": 18,
+    "token": "wanted",
+    "found": false,
+    "probability": 0,
+    "top_alternatives": [
+      [
+        "str",
+        83.39913986882618
+      ],
+      [
+        "had",
+        4.189101140534123
+      ],
+      [
+        "l",
+        4.136949936433898
+      ]
+    ]
+  },
+  {
+    "position": 19,
+    "token": "to",
+    "found": true,
+    "probability": 57.64481169156907,
+    "top_alternatives": [
+      [
+        "to",
+        57.64481169156907
+      ],
+      [
+        " to",
+        34.996305052505114
+      ],
+      [
+        "more",
+        3.6705186954434907
+      ]
+    ]
+  }
+]

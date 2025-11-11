@@ -1,0 +1,2115 @@
+{
+  "text": "Once there was a robot who could perform complex calculations and complete tasks with precision, but it longed to express itself in a more creative way. So, it decided to learn how to paint. With each stroke of the brush, the robot discovered the joy of blending colors and creating beautiful works of art, proving that even machines can find beauty in creativity.",
+  "context": "Write a short story about a robot learning to paint. Keep it to 2-3 sentences.",
+  "results": [
+    {
+      "position": 0,
+      "token": "Once",
+      "found": true,
+      "probability": 44.40603688118358,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "Once",
+          "probability": 44.40603688118358
+        },
+        {
+          "token": "The",
+          "probability": 41.061193812107895
+        },
+        {
+          "token": "As",
+          "probability": 7.418190696388793
+        },
+        {
+          "token": "In",
+          "probability": 1.8585332214173043
+        },
+        {
+          "token": "After",
+          "probability": 1.7217792192845114
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "token": "there",
+      "found": true,
+      "probability": 67.07692438764965,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "the",
+          "probability": 67.07692438764965
+        },
+        {
+          "token": "he",
+          "probability": 5.876967431857727
+        },
+        {
+          "token": "a",
+          "probability": 3.690592395629321
+        },
+        {
+          "token": "the",
+          "probability": 2.9286401011523395
+        },
+        {
+          "token": "hesitant",
+          "probability": 2.877060997128155
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "token": "was",
+      "found": true,
+      "probability": 56.57080028069096,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "was",
+          "probability": 56.57080028069096
+        },
+        {
+          "token": "was",
+          "probability": 33.71887892488798
+        },
+        {
+          "token": "Once",
+          "probability": 3.449853222681986
+        },
+        {
+          "token": ",",
+          "probability": 1.2311746159286514
+        },
+        {
+          "token": "a",
+          "probability": 0.8907723229060851
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "token": "a",
+      "found": true,
+      "probability": 58.264355940086055,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "a",
+          "probability": 58.264355940086055
+        },
+        {
+          "token": "a",
+          "probability": 31.695125076702713
+        },
+        {
+          "token": "Once",
+          "probability": 3.029362453477381
+        },
+        {
+          "token": "robot",
+          "probability": 2.890212954211788
+        },
+        {
+          "token": "robot",
+          "probability": 2.3123667936238603
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "token": "robot",
+      "found": true,
+      "probability": 75.18374239206118,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "robot",
+          "probability": 75.18374239206118
+        },
+        {
+          "token": "The",
+          "probability": 7.944572459269272
+        },
+        {
+          "token": "robot",
+          "probability": 7.062020398488615
+        },
+        {
+          "token": "One",
+          "probability": 1.9141745512791304
+        },
+        {
+          "token": "Once",
+          "probability": 1.2211172104649552
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "token": "who",
+      "found": true,
+      "probability": 0.7953875379268331,
+      "rank": 3,
+      "status": "LOW",
+      "top_alternatives": [
+        {
+          "token": "named",
+          "probability": 54.58054966200486
+        },
+        {
+          "token": "named",
+          "probability": 43.57953179954816
+        },
+        {
+          "token": "who",
+          "probability": 0.7953875379268331
+        },
+        {
+          "token": "who",
+          "probability": 0.6690774110176265
+        },
+        {
+          "token": "programmed",
+          "probability": 0.10372775899217096
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "token": "could",
+      "found": false,
+      "probability": 0,
+      "rank": -1,
+      "status": "NOT_FOUND",
+      "top_alternatives": [
+        {
+          "token": "was",
+          "probability": 17.40517517741477
+        },
+        {
+          "token": "had",
+          "probability": 16.70837826259443
+        },
+        {
+          "token": "was",
+          "probability": 11.789561083433759
+        },
+        {
+          "token": "dec",
+          "probability": 10.397149541045932
+        },
+        {
+          "token": "had",
+          "probability": 9.523742449412174
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "token": "perform",
+      "found": false,
+      "probability": 0,
+      "rank": -1,
+      "status": "NOT_FOUND",
+      "top_alternatives": [
+        {
+          "token": "calculate",
+          "probability": 25.018230671915482
+        },
+        {
+          "token": "calculate",
+          "probability": 16.298190444710535
+        },
+        {
+          "token": "not",
+          "probability": 9.103549441481352
+        },
+        {
+          "token": "do",
+          "probability": 4.014619550962535
+        },
+        {
+          "token": "do",
+          "probability": 4.011106690810843
+        }
+      ]
+    },
+    {
+      "position": 16,
+      "token": "complex",
+      "found": true,
+      "probability": 15.944822780698045,
+      "rank": 1,
+      "status": "MEDIUM",
+      "top_alternatives": [
+        {
+          "token": "complex",
+          "probability": 15.944822780698045
+        },
+        {
+          "token": "all",
+          "probability": 13.61306898347721
+        },
+        {
+          "token": "a",
+          "probability": 12.332113158509525
+        },
+        {
+          "token": "all",
+          "probability": 8.446486752582679
+        },
+        {
+          "token": "a",
+          "probability": 7.67982519619234
+        }
+      ]
+    },
+    {
+      "position": 18,
+      "token": "calculations",
+      "found": true,
+      "probability": 61.621145700192734,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "calculations",
+          "probability": 61.621145700192734
+        },
+        {
+          "token": "calcul",
+          "probability": 17.45809234738923
+        },
+        {
+          "token": "tasks",
+          "probability": 8.940817124756585
+        },
+        {
+          "token": "mathematical",
+          "probability": 2.7594328955451335
+        },
+        {
+          "token": "tasks",
+          "probability": 2.010850538376747
+        }
+      ]
+    },
+    {
+      "position": 20,
+      "token": "and",
+      "found": true,
+      "probability": 37.62697773180654,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "and",
+          "probability": 37.62697773180654
+        },
+        {
+          "token": "and",
+          "probability": 34.205166023781246
+        },
+        {
+          "token": "but",
+          "probability": 5.3707254149920045
+        },
+        {
+          "token": "with",
+          "probability": 4.863247798369786
+        },
+        {
+          "token": "in",
+          "probability": 4.503674801099372
+        }
+      ]
+    },
+    {
+      "position": 22,
+      "token": "complete",
+      "found": false,
+      "probability": 0,
+      "rank": -1,
+      "status": "NOT_FOUND",
+      "top_alternatives": [
+        {
+          "token": "analyze",
+          "probability": 16.205371899206593
+        },
+        {
+          "token": "analyze",
+          "probability": 10.912877195142924
+        },
+        {
+          "token": "execute",
+          "probability": 9.562325838199893
+        },
+        {
+          "token": "tasks",
+          "probability": 7.410462744347784
+        },
+        {
+          "token": "tasks",
+          "probability": 7.403681570261403
+        }
+      ]
+    },
+    {
+      "position": 24,
+      "token": "tasks",
+      "found": true,
+      "probability": 57.14131933128851,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "tasks",
+          "probability": 57.14131933128851
+        },
+        {
+          "token": "tasks",
+          "probability": 12.646363278661028
+        },
+        {
+          "token": "intricate",
+          "probability": 10.883936492775504
+        },
+        {
+          "token": "var",
+          "probability": 5.322264049238404
+        },
+        {
+          "token": "comp",
+          "probability": 3.4975568643232577
+        }
+      ]
+    },
+    {
+      "position": 26,
+      "token": "with",
+      "found": true,
+      "probability": 83.4881116263503,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "with",
+          "probability": 83.4881116263503
+        },
+        {
+          "token": "with",
+          "probability": 8.64017023708428
+        },
+        {
+          "token": "efficiently",
+          "probability": 5.4607218391339325
+        },
+        {
+          "token": "efficient",
+          "probability": 1.0505856661845379
+        },
+        {
+          "token": "But",
+          "probability": 0.2644587977256695
+        }
+      ]
+    },
+    {
+      "position": 28,
+      "token": "precision",
+      "found": true,
+      "probability": 46.685811021301596,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "precision",
+          "probability": 46.685811021301596
+        },
+        {
+          "token": "precision",
+          "probability": 35.9348000247137
+        },
+        {
+          "token": "eff",
+          "probability": 2.85211432025075
+        },
+        {
+          "token": "remarkable",
+          "probability": 2.707258734852636
+        },
+        {
+          "token": "incredible",
+          "probability": 2.4149504903112904
+        }
+      ]
+    },
+    {
+      "position": 29,
+      "token": ",",
+      "found": true,
+      "probability": 22.73938824914685,
+      "rank": 3,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "But",
+          "probability": 34.63508847568888
+        },
+        {
+          "token": ".",
+          "probability": 34.20012113386252
+        },
+        {
+          "token": ",",
+          "probability": 22.73938824914685
+        },
+        {
+          "token": "but",
+          "probability": 1.860282552228199
+        },
+        {
+          "token": "but",
+          "probability": 1.6824695528323843
+        }
+      ]
+    },
+    {
+      "position": 31,
+      "token": "but",
+      "found": true,
+      "probability": 93.68032522929217,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "but",
+          "probability": 93.68032522929217
+        },
+        {
+          "token": "but",
+          "probability": 3.965318128285264
+        },
+        {
+          "token": "But",
+          "probability": 1.7571412276835987
+        },
+        {
+          "token": "yet",
+          "probability": 0.389297746097266
+        },
+        {
+          "token": "One",
+          "probability": 0.049506395585212595
+        }
+      ]
+    },
+    {
+      "position": 33,
+      "token": "it",
+      "found": true,
+      "probability": 25.212981127360024,
+      "rank": 2,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "when",
+          "probability": 46.670138891357226
+        },
+        {
+          "token": "it",
+          "probability": 25.212981127360024
+        },
+        {
+          "token": "When",
+          "probability": 10.203999854169803
+        },
+        {
+          "token": "when",
+          "probability": 6.925804274060064
+        },
+        {
+          "token": "str",
+          "probability": 3.25790641792728
+        }
+      ]
+    },
+    {
+      "position": 35,
+      "token": "longed",
+      "found": true,
+      "probability": 8.443996250881865,
+      "rank": 3,
+      "status": "MEDIUM",
+      "top_alternatives": [
+        {
+          "token": "str",
+          "probability": 78.78424071905785
+        },
+        {
+          "token": "had",
+          "probability": 8.520407650403278
+        },
+        {
+          "token": "l",
+          "probability": 8.443996250881865
+        },
+        {
+          "token": "struggled",
+          "probability": 1.1063381369527776
+        },
+        {
+          "token": "couldn",
+          "probability": 0.5293455673373865
+        }
+      ]
+    },
+    {
+      "position": 37,
+      "token": "to",
+      "found": true,
+      "probability": 83.60151951883486,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "to",
+          "probability": 83.60151951883486
+        },
+        {
+          "token": "to",
+          "probability": 15.248041765491783
+        },
+        {
+          "token": "One",
+          "probability": 0.4735256891817719
+        },
+        {
+          "token": "for",
+          "probability": 0.36443082939262317
+        },
+        {
+          "token": "",
+          "probability": 0.06395504821689961
+        }
+      ]
+    },
+    {
+      "position": 39,
+      "token": "express",
+      "found": true,
+      "probability": 84.13225508652931,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "express",
+          "probability": 84.13225508652931
+        },
+        {
+          "token": "exp",
+          "probability": 5.739179098974791
+        },
+        {
+          "token": "express",
+          "probability": 2.9769758981699685
+        },
+        {
+          "token": "create",
+          "probability": 2.8495009850585693
+        },
+        {
+          "token": "learn",
+          "probability": 1.3298912686381854
+        }
+      ]
+    },
+    {
+      "position": 41,
+      "token": "itself",
+      "found": true,
+      "probability": 48.77461270262182,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "itself",
+          "probability": 48.77461270262182
+        },
+        {
+          "token": "its",
+          "probability": 32.94060811881268
+        },
+        {
+          "token": "its",
+          "probability": 14.009735572700308
+        },
+        {
+          "token": "it",
+          "probability": 2.0622423000459293
+        },
+        {
+          "token": "creativity",
+          "probability": 1.7784286365968744
+        }
+      ]
+    },
+    {
+      "position": 43,
+      "token": "in",
+      "found": true,
+      "probability": 37.23579336809888,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "in",
+          "probability": 37.23579336809888
+        },
+        {
+          "token": "in",
+          "probability": 30.91427607122741
+        },
+        {
+          "token": "through",
+          "probability": 10.409958395073376
+        },
+        {
+          "token": "creatively",
+          "probability": 9.900641826394924
+        },
+        {
+          "token": "through",
+          "probability": 9.407951029905217
+        }
+      ]
+    },
+    {
+      "position": 45,
+      "token": "a",
+      "found": true,
+      "probability": 26.033146357673044,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "a",
+          "probability": 26.033146357673044
+        },
+        {
+          "token": "a",
+          "probability": 15.45726139272261
+        },
+        {
+          "token": "art",
+          "probability": 11.491575319505198
+        },
+        {
+          "token": "more",
+          "probability": 10.305461382136961
+        },
+        {
+          "token": "new",
+          "probability": 5.961068156975195
+        }
+      ]
+    },
+    {
+      "position": 47,
+      "token": "more",
+      "found": true,
+      "probability": 31.949504943842715,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "more",
+          "probability": 31.949504943842715
+        },
+        {
+          "token": "different",
+          "probability": 19.31109084397583
+        },
+        {
+          "token": "different",
+          "probability": 18.407556984689517
+        },
+        {
+          "token": "creative",
+          "probability": 10.789607323633172
+        },
+        {
+          "token": "more",
+          "probability": 9.071786257150457
+        }
+      ]
+    },
+    {
+      "position": 49,
+      "token": "creative",
+      "found": true,
+      "probability": 80.69888398419046,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "creative",
+          "probability": 80.69888398419046
+        },
+        {
+          "token": "creative",
+          "probability": 8.836416189202698
+        },
+        {
+          "token": "art",
+          "probability": 7.563464753929898
+        },
+        {
+          "token": "artistic",
+          "probability": 2.538474185065647
+        },
+        {
+          "token": "abstract",
+          "probability": 0.058979915162232166
+        }
+      ]
+    },
+    {
+      "position": 51,
+      "token": "way",
+      "found": true,
+      "probability": 66.01749389951883,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "way",
+          "probability": 66.01749389951883
+        },
+        {
+          "token": "way",
+          "probability": 30.02539987627465
+        },
+        {
+          "token": "manner",
+          "probability": 2.0698409860392912
+        },
+        {
+          "token": "",
+          "probability": 0.25940912924763954
+        },
+        {
+          "token": "m",
+          "probability": 0.24460421736037372
+        }
+      ]
+    },
+    {
+      "position": 52,
+      "token": ".",
+      "found": true,
+      "probability": 99.49505276643728,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": ".",
+          "probability": 99.49505276643728
+        },
+        {
+          "token": "So",
+          "probability": 0.05446871308381362
+        },
+        {
+          "token": "So",
+          "probability": 0.05321903137398369
+        },
+        {
+          "token": "One",
+          "probability": 0.044875655994804815
+        },
+        {
+          "token": ".",
+          "probability": 0.03866738442456464
+        }
+      ]
+    },
+    {
+      "position": 54,
+      "token": "So",
+      "found": true,
+      "probability": 8.613690757405108,
+      "rank": 4,
+      "status": "MEDIUM",
+      "top_alternatives": [
+        {
+          "token": "It",
+          "probability": 32.50828844792131
+        },
+        {
+          "token": "After",
+          "probability": 27.867827464735957
+        },
+        {
+          "token": "With",
+          "probability": 10.045198769625982
+        },
+        {
+          "token": "So",
+          "probability": 8.613690757405108
+        },
+        {
+          "token": "It",
+          "probability": 3.293214653277347
+        }
+      ]
+    },
+    {
+      "position": 55,
+      "token": ",",
+      "found": true,
+      "probability": 48.0619058897591,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": ",",
+          "probability": 48.0619058897591
+        },
+        {
+          "token": "it",
+          "probability": 40.52478596236163
+        },
+        {
+          "token": "it",
+          "probability": 10.918692033469458
+        },
+        {
+          "token": "the",
+          "probability": 0.17156441006164563
+        },
+        {
+          "token": "the",
+          "probability": 0.09636161763043974
+        }
+      ]
+    },
+    {
+      "position": 57,
+      "token": "it",
+      "found": true,
+      "probability": 82.52048668665671,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "it",
+          "probability": 82.52048668665671
+        },
+        {
+          "token": "it",
+          "probability": 15.179336861317857
+        },
+        {
+          "token": "the",
+          "probability": 1.606799297001215
+        },
+        {
+          "token": "the",
+          "probability": 0.26603528888674155
+        },
+        {
+          "token": "It",
+          "probability": 0.11357086064429309
+        }
+      ]
+    },
+    {
+      "position": 59,
+      "token": "decided",
+      "found": true,
+      "probability": 40.107436098575896,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "dec",
+          "probability": 40.107436098575896
+        },
+        {
+          "token": "b",
+          "probability": 13.847730909859685
+        },
+        {
+          "token": "decided",
+          "probability": 13.802587657361375
+        },
+        {
+          "token": "began",
+          "probability": 10.492405250660651
+        },
+        {
+          "token": "enrolled",
+          "probability": 4.008171635074625
+        }
+      ]
+    },
+    {
+      "position": 61,
+      "token": "to",
+      "found": true,
+      "probability": 76.5808339560651,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "to",
+          "probability": 76.5808339560651
+        },
+        {
+          "token": "to",
+          "probability": 22.620635977028947
+        },
+        {
+          "token": "",
+          "probability": 0.452118297160004
+        },
+        {
+          "token": "",
+          "probability": 0.15800017884713657
+        },
+        {
+          "token": "",
+          "probability": 0.03166343246303389
+        }
+      ]
+    },
+    {
+      "position": 63,
+      "token": "learn",
+      "found": true,
+      "probability": 84.15800686221172,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "learn",
+          "probability": 84.15800686221172
+        },
+        {
+          "token": "take",
+          "probability": 6.519816204113544
+        },
+        {
+          "token": "learn",
+          "probability": 4.776763790739069
+        },
+        {
+          "token": "start",
+          "probability": 0.8086708427407548
+        },
+        {
+          "token": "te",
+          "probability": 0.546165730264429
+        }
+      ]
+    },
+    {
+      "position": 65,
+      "token": "how",
+      "found": true,
+      "probability": 34.71214362092086,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "how",
+          "probability": 34.71214362092086
+        },
+        {
+          "token": "how",
+          "probability": 31.088655757074317
+        },
+        {
+          "token": "to",
+          "probability": 12.354517504016215
+        },
+        {
+          "token": "paint",
+          "probability": 6.9017768019863395
+        },
+        {
+          "token": "the",
+          "probability": 6.08343550150978
+        }
+      ]
+    },
+    {
+      "position": 67,
+      "token": "to",
+      "found": true,
+      "probability": 92.03916067458505,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "to",
+          "probability": 92.03916067458505
+        },
+        {
+          "token": "to",
+          "probability": 7.40304414071994
+        },
+        {
+          "token": "",
+          "probability": 0.22099957202341142
+        },
+        {
+          "token": "paint",
+          "probability": 0.10083093112549879
+        },
+        {
+          "token": "",
+          "probability": 0.052056593586372164
+        }
+      ]
+    },
+    {
+      "position": 69,
+      "token": "paint",
+      "found": true,
+      "probability": 93.22027360515627,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "paint",
+          "probability": 93.22027360515627
+        },
+        {
+          "token": "paint",
+          "probability": 6.729889240802112
+        },
+        {
+          "token": "",
+          "probability": 0.024280983330264124
+        },
+        {
+          "token": "",
+          "probability": 0.003991249999694164
+        },
+        {
+          "token": "Paint",
+          "probability": 0.003427727362238908
+        }
+      ]
+    },
+    {
+      "position": 70,
+      "token": ".",
+      "found": true,
+      "probability": 90.23530477597949,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": ".",
+          "probability": 90.23530477597949
+        },
+        {
+          "token": ".",
+          "probability": 2.728146623046924
+        },
+        {
+          "token": "The",
+          "probability": 2.6467129821430535
+        },
+        {
+          "token": ",",
+          "probability": 0.6066130236693792
+        },
+        {
+          "token": ".",
+          "probability": 0.5101641134178956
+        }
+      ]
+    },
+    {
+      "position": 72,
+      "token": "With",
+      "found": true,
+      "probability": 39.99018927829122,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "With",
+          "probability": 39.99018927829122
+        },
+        {
+          "token": "At",
+          "probability": 24.327969240013186
+        },
+        {
+          "token": "The",
+          "probability": 8.13518259470372
+        },
+        {
+          "token": "Through",
+          "probability": 5.3355804861636225
+        },
+        {
+          "token": "",
+          "probability": 3.087125459674282
+        }
+      ]
+    },
+    {
+      "position": 74,
+      "token": "each",
+      "found": true,
+      "probability": 44.983387097094024,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "each",
+          "probability": 44.983387097094024
+        },
+        {
+          "token": "each",
+          "probability": 27.49034593113922
+        },
+        {
+          "token": "the",
+          "probability": 17.038665216842226
+        },
+        {
+          "token": "the",
+          "probability": 7.769848654372309
+        },
+        {
+          "token": "every",
+          "probability": 0.6109927937854609
+        }
+      ]
+    },
+    {
+      "position": 76,
+      "token": "stroke",
+      "found": true,
+      "probability": 22.56488836465759,
+      "rank": 2,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "brush",
+          "probability": 63.04468029097228
+        },
+        {
+          "token": "stroke",
+          "probability": 22.56488836465759
+        },
+        {
+          "token": "stroke",
+          "probability": 9.744488917665866
+        },
+        {
+          "token": "brush",
+          "probability": 4.194667123466833
+        },
+        {
+          "token": "",
+          "probability": 0.11471339095538392
+        }
+      ]
+    },
+    {
+      "position": 78,
+      "token": "of",
+      "found": true,
+      "probability": 90.90142757795331,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "of",
+          "probability": 90.90142757795331
+        },
+        {
+          "token": "of",
+          "probability": 8.939417102419455
+        },
+        {
+          "token": ",",
+          "probability": 0.09389472097358757
+        },
+        {
+          "token": "and",
+          "probability": 0.01679925373640022
+        },
+        {
+          "token": "and",
+          "probability": 0.008895045754685036
+        }
+      ]
+    },
+    {
+      "position": 80,
+      "token": "the",
+      "found": true,
+      "probability": 8.755479964446934,
+      "rank": 2,
+      "status": "MEDIUM",
+      "top_alternatives": [
+        {
+          "token": "its",
+          "probability": 90.58154239669275
+        },
+        {
+          "token": "the",
+          "probability": 8.755479964446934
+        },
+        {
+          "token": "its",
+          "probability": 0.24760889498173472
+        },
+        {
+          "token": "paint",
+          "probability": 0.10677859285156033
+        },
+        {
+          "token": "the",
+          "probability": 0.09689110945240045
+        }
+      ]
+    },
+    {
+      "position": 82,
+      "token": "brush",
+      "found": true,
+      "probability": 59.21430942772029,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "brush",
+          "probability": 59.21430942772029
+        },
+        {
+          "token": "brush",
+          "probability": 39.55907902360099
+        },
+        {
+          "token": "paint",
+          "probability": 1.02504466370573
+        },
+        {
+          "token": "paint",
+          "probability": 0.08953615095130613
+        },
+        {
+          "token": "",
+          "probability": 0.028766095813622473
+        }
+      ]
+    },
+    {
+      "position": 83,
+      "token": ",",
+      "found": true,
+      "probability": 99.24774136573885,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": ",",
+          "probability": 99.24774136573885
+        },
+        {
+          "token": "and",
+          "probability": 0.3525060428598568
+        },
+        {
+          "token": "The",
+          "probability": 0.08974226725790573
+        },
+        {
+          "token": ",",
+          "probability": 0.08894408065081925
+        },
+        {
+          "token": "and",
+          "probability": 0.046534057551663996
+        }
+      ]
+    },
+    {
+      "position": 85,
+      "token": "the",
+      "found": true,
+      "probability": 66.08215138673728,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "the",
+          "probability": 66.08215138673728
+        },
+        {
+          "token": "the",
+          "probability": 16.124440848008188
+        },
+        {
+          "token": "it",
+          "probability": 11.757872144297545
+        },
+        {
+          "token": "it",
+          "probability": 5.92330272452606
+        },
+        {
+          "token": "",
+          "probability": 0.05110158247706787
+        }
+      ]
+    },
+    {
+      "position": 87,
+      "token": "robot",
+      "found": true,
+      "probability": 93.78902322605917,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "robot",
+          "probability": 93.78902322605917
+        },
+        {
+          "token": "robot",
+          "probability": 6.109941422516825
+        },
+        {
+          "token": "",
+          "probability": 0.03344005607069166
+        },
+        {
+          "token": "Robot",
+          "probability": 0.016350058330804957
+        },
+        {
+          "token": "bot",
+          "probability": 0.008169947353492867
+        }
+      ]
+    },
+    {
+      "position": 89,
+      "token": "discovered",
+      "found": true,
+      "probability": 62.6547380632277,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "dis",
+          "probability": 62.6547380632277
+        },
+        {
+          "token": "discovered",
+          "probability": 28.475827969783964
+        },
+        {
+          "token": "learn",
+          "probability": 2.0856725850461713
+        },
+        {
+          "token": "found",
+          "probability": 1.123129388543594
+        },
+        {
+          "token": "learned",
+          "probability": 0.948197169155222
+        }
+      ]
+    },
+    {
+      "position": 91,
+      "token": "the",
+      "found": true,
+      "probability": 2.1085805289135116,
+      "rank": 3,
+      "status": "LOW",
+      "top_alternatives": [
+        {
+          "token": "a",
+          "probability": 79.72760091843209
+        },
+        {
+          "token": "a",
+          "probability": 15.739621347356291
+        },
+        {
+          "token": "the",
+          "probability": 2.1085805289135116
+        },
+        {
+          "token": "new",
+          "probability": 0.7679995636398471
+        },
+        {
+          "token": "the",
+          "probability": 0.6548344561376072
+        }
+      ]
+    },
+    {
+      "position": 93,
+      "token": "joy",
+      "found": true,
+      "probability": 55.53136442965343,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "joy",
+          "probability": 55.53136442965343
+        },
+        {
+          "token": "joy",
+          "probability": 39.95321265951283
+        },
+        {
+          "token": "power",
+          "probability": 1.6518207857107077
+        },
+        {
+          "token": "be",
+          "probability": 0.6163568297953638
+        },
+        {
+          "token": "fre",
+          "probability": 0.4696773947929167
+        }
+      ]
+    },
+    {
+      "position": 95,
+      "token": "of",
+      "found": true,
+      "probability": 70.44737209799146,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "of",
+          "probability": 70.44737209799146
+        },
+        {
+          "token": "of",
+          "probability": 28.832519112209493
+        },
+        {
+          "token": "and",
+          "probability": 0.2820216567486002
+        },
+        {
+          "token": "and",
+          "probability": 0.2149640629249128
+        },
+        {
+          "token": "",
+          "probability": 0.10122760182487638
+        }
+      ]
+    },
+    {
+      "position": 97,
+      "token": "blending",
+      "found": true,
+      "probability": 21.479931615251598,
+      "rank": 2,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "creating",
+          "probability": 23.22543201893624
+        },
+        {
+          "token": "blending",
+          "probability": 21.479931615251598
+        },
+        {
+          "token": "mixing",
+          "probability": 18.974674822640235
+        },
+        {
+          "token": "colors",
+          "probability": 9.449660226467463
+        },
+        {
+          "token": "color",
+          "probability": 7.012687342416607
+        }
+      ]
+    },
+    {
+      "position": 99,
+      "token": "colors",
+      "found": true,
+      "probability": 97.53654809182365,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "colors",
+          "probability": 97.53654809182365
+        },
+        {
+          "token": "colors",
+          "probability": 2.3566855076974402
+        },
+        {
+          "token": "different",
+          "probability": 0.04307340981046288
+        },
+        {
+          "token": "vibrant",
+          "probability": 0.024566886648469084
+        },
+        {
+          "token": "color",
+          "probability": 0.009447776898272342
+        }
+      ]
+    },
+    {
+      "position": 101,
+      "token": "and",
+      "found": true,
+      "probability": 57.95987066446824,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "and",
+          "probability": 57.95987066446824
+        },
+        {
+          "token": "and",
+          "probability": 39.7467805746687
+        },
+        {
+          "token": "to",
+          "probability": 1.334604089888931
+        },
+        {
+          "token": "together",
+          "probability": 0.4154037608526455
+        },
+        {
+          "token": "",
+          "probability": 0.2497899001104164
+        }
+      ]
+    },
+    {
+      "position": 103,
+      "token": "creating",
+      "found": true,
+      "probability": 55.091728448510416,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "creating",
+          "probability": 55.091728448510416
+        },
+        {
+          "token": "creating",
+          "probability": 38.90794167620847
+        },
+        {
+          "token": "bringing",
+          "probability": 4.850746865537782
+        },
+        {
+          "token": "bringing",
+          "probability": 0.8565134019368363
+        },
+        {
+          "token": "shapes",
+          "probability": 0.09128390316297764
+        }
+      ]
+    },
+    {
+      "position": 105,
+      "token": "beautiful",
+      "found": true,
+      "probability": 86.04373779546718,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "beautiful",
+          "probability": 86.04373779546718
+        },
+        {
+          "token": "unique",
+          "probability": 2.6539786355932042
+        },
+        {
+          "token": "art",
+          "probability": 2.553396888898425
+        },
+        {
+          "token": "intricate",
+          "probability": 2.1373406855779233
+        },
+        {
+          "token": "vibrant",
+          "probability": 1.6939264646465442
+        }
+      ]
+    },
+    {
+      "position": 107,
+      "token": "works",
+      "found": true,
+      "probability": 32.286725999318875,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "works",
+          "probability": 32.286725999318875
+        },
+        {
+          "token": "compositions",
+          "probability": 29.361308963796613
+        },
+        {
+          "token": "master",
+          "probability": 20.956223904365174
+        },
+        {
+          "token": "artworks",
+          "probability": 4.476763650765789
+        },
+        {
+          "token": "artwork",
+          "probability": 2.1727926724743494
+        }
+      ]
+    },
+    {
+      "position": 109,
+      "token": "of",
+      "found": true,
+      "probability": 92.64693549041763,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "of",
+          "probability": 92.64693549041763
+        },
+        {
+          "token": "of",
+          "probability": 7.1762035230840056
+        },
+        {
+          "token": ".",
+          "probability": 0.04714340209692902
+        },
+        {
+          "token": "s",
+          "probability": 0.037785614634608715
+        },
+        {
+          "token": "f",
+          "probability": 0.018637477353203036
+        }
+      ]
+    },
+    {
+      "position": 111,
+      "token": "art",
+      "found": true,
+      "probability": 77.90801422759438,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "art",
+          "probability": 77.90801422759438
+        },
+        {
+          "token": "art",
+          "probability": 21.827920036850568
+        },
+        {
+          "token": "",
+          "probability": 0.11136952930295317
+        },
+        {
+          "token": ".",
+          "probability": 0.031043624741723543
+        },
+        {
+          "token": "",
+          "probability": 0.026909367628657654
+        }
+      ]
+    },
+    {
+      "position": 112,
+      "token": ",",
+      "found": true,
+      "probability": 0.08738463488455289,
+      "rank": 5,
+      "status": "LOW",
+      "top_alternatives": [
+        {
+          "token": ".",
+          "probability": 98.20757451974728
+        },
+        {
+          "token": ".",
+          "probability": 0.7501359561511319
+        },
+        {
+          "token": "The",
+          "probability": 0.31257791464704715
+        },
+        {
+          "token": ".",
+          "probability": 0.10778817568873372
+        },
+        {
+          "token": "",
+          "probability": 0.08738463488455289
+        }
+      ]
+    },
+    {
+      "position": 114,
+      "token": "proving",
+      "found": false,
+      "probability": 0,
+      "rank": -1,
+      "status": "NOT_FOUND",
+      "top_alternatives": [
+        {
+          "token": "bringing",
+          "probability": 33.533756425752586
+        },
+        {
+          "token": "much",
+          "probability": 13.687409367305717
+        },
+        {
+          "token": "un",
+          "probability": 11.195250053611474
+        },
+        {
+          "token": "and",
+          "probability": 4.470208205659682
+        },
+        {
+          "token": "even",
+          "probability": 4.069262934939921
+        }
+      ]
+    },
+    {
+      "position": 116,
+      "token": "that",
+      "found": true,
+      "probability": 66.85401930594733,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "that",
+          "probability": 66.85401930594733
+        },
+        {
+          "token": "that",
+          "probability": 32.89689860452091
+        },
+        {
+          "token": "to",
+          "probability": 0.1403838511911331
+        },
+        {
+          "token": "to",
+          "probability": 0.021495948273313914
+        },
+        {
+          "token": "",
+          "probability": 0.01890012366130208
+        }
+      ]
+    },
+    {
+      "position": 118,
+      "token": "even",
+      "found": true,
+      "probability": 55.73420133133785,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "even",
+          "probability": 55.73420133133785
+        },
+        {
+          "token": "even",
+          "probability": 26.502049933674975
+        },
+        {
+          "token": "robots",
+          "probability": 5.34081992924687
+        },
+        {
+          "token": "cre",
+          "probability": 4.61461566972768
+        },
+        {
+          "token": "art",
+          "probability": 2.2222444218227055
+        }
+      ]
+    },
+    {
+      "position": 120,
+      "token": "machines",
+      "found": true,
+      "probability": 38.59963521309172,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "mach",
+          "probability": 38.59963521309172
+        },
+        {
+          "token": "machines",
+          "probability": 25.554391638978792
+        },
+        {
+          "token": "a",
+          "probability": 7.165576266205216
+        },
+        {
+          "token": "robots",
+          "probability": 6.595298099542046
+        },
+        {
+          "token": "the",
+          "probability": 6.029752022850489
+        }
+      ]
+    },
+    {
+      "position": 122,
+      "token": "can",
+      "found": true,
+      "probability": 47.76213095086071,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "can",
+          "probability": 47.76213095086071
+        },
+        {
+          "token": "can",
+          "probability": 34.454171752374776
+        },
+        {
+          "token": "have",
+          "probability": 8.378482280575831
+        },
+        {
+          "token": "have",
+          "probability": 4.379554408474116
+        },
+        {
+          "token": "are",
+          "probability": 1.2636935048584996
+        }
+      ]
+    },
+    {
+      "position": 124,
+      "token": "find",
+      "found": false,
+      "probability": 0,
+      "rank": -1,
+      "status": "NOT_FOUND",
+      "top_alternatives": [
+        {
+          "token": "em",
+          "probability": 26.420192520438597
+        },
+        {
+          "token": "have",
+          "probability": 24.189012133619
+        },
+        {
+          "token": "have",
+          "probability": 19.057464955344113
+        },
+        {
+          "token": "be",
+          "probability": 17.04953935373138
+        },
+        {
+          "token": "poss",
+          "probability": 6.008352508870772
+        }
+      ]
+    },
+    {
+      "position": 126,
+      "token": "beauty",
+      "found": true,
+      "probability": 77.22461443070415,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "beauty",
+          "probability": 77.22461443070415
+        },
+        {
+          "token": "fulfillment",
+          "probability": 5.944448661567687
+        },
+        {
+          "token": "inspiration",
+          "probability": 5.27183598424111
+        },
+        {
+          "token": "their",
+          "probability": 1.8309203903921736
+        },
+        {
+          "token": "be",
+          "probability": 1.6175670283164614
+        }
+      ]
+    },
+    {
+      "position": 128,
+      "token": "in",
+      "found": true,
+      "probability": 55.04407599297628,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "in",
+          "probability": 55.04407599297628
+        },
+        {
+          "token": "and",
+          "probability": 33.47972346862305
+        },
+        {
+          "token": "in",
+          "probability": 8.00565515232132
+        },
+        {
+          "token": "and",
+          "probability": 2.771967580708303
+        },
+        {
+          "token": "",
+          "probability": 0.3169176829661605
+        }
+      ]
+    },
+    {
+      "position": 130,
+      "token": "creativity",
+      "found": true,
+      "probability": 31.96616456272232,
+      "rank": 2,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": "the",
+          "probability": 43.23157867207291
+        },
+        {
+          "token": "creativity",
+          "probability": 31.96616456272232
+        },
+        {
+          "token": "unexpected",
+          "probability": 9.355799196817081
+        },
+        {
+          "token": "art",
+          "probability": 6.7898468493219415
+        },
+        {
+          "token": "art",
+          "probability": 3.330883839318145
+        }
+      ]
+    },
+    {
+      "position": 131,
+      "token": ".",
+      "found": true,
+      "probability": 99.52988929584032,
+      "rank": 1,
+      "status": "HIGH",
+      "top_alternatives": [
+        {
+          "token": ".",
+          "probability": 99.52988929584032
+        },
+        {
+          "token": "and",
+          "probability": 0.137777830644136
+        },
+        {
+          "token": ".",
+          "probability": 0.08699837714459722
+        },
+        {
+          "token": "As",
+          "probability": 0.07089787526037704
+        },
+        {
+          "token": "The",
+          "probability": 0.04423730620914835
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "total": 70,
+    "high": 58,
+    "medium": 4,
+    "low": 3,
+    "not_found": 5,
+    "high_pct": 82.85714285714286,
+    "not_found_pct": 7.142857142857142
+  }
+}

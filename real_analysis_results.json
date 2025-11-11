@@ -1,0 +1,377 @@
+{
+  "original_text": "Once there was a robot who could perform complex calculations and complete tasks with precision, but it longed to express itself in a more creative way. So, it decided to learn how to paint. With each stroke of the brush, the robot discovered the joy of blending colors and creating beautiful works of art, proving that even machines can find beauty in creativity.",
+  "edited_text": "Once there was a small robot who could perform complex calculations and complete tasks with accuracy but it wanted to express itself in a more creative manner. So one day, it decided to learn how to paint. With each stroke of the paint brush, the litte robot discovered the joy of blending colors and creating splendid works of art, proving that even machines can find beauty in art.",
+  "tokens": [
+    {
+      "token": "Once",
+      "probability": 0.45417766309024477,
+      "level": "HIGH"
+    },
+    {
+      "token": " upon",
+      "probability": 0.5779947685756217,
+      "level": "HIGH"
+    },
+    {
+      "token": " a",
+      "probability": 0.9999806147979351,
+      "level": "HIGH"
+    },
+    {
+      "token": " time",
+      "probability": 0.9999871708899233,
+      "level": "HIGH"
+    },
+    {
+      "token": ",",
+      "probability": 0.9152551680165777,
+      "level": "HIGH"
+    },
+    {
+      "token": " there",
+      "probability": 0.4757207292096156,
+      "level": "HIGH"
+    },
+    {
+      "token": " was",
+      "probability": 0.99028445441443,
+      "level": "HIGH"
+    },
+    {
+      "token": " a",
+      "probability": 0.9993687750310861,
+      "level": "HIGH"
+    },
+    {
+      "token": " robot",
+      "probability": 0.899816982610199,
+      "level": "HIGH"
+    },
+    {
+      "token": " named",
+      "probability": 0.9602777852554708,
+      "level": "HIGH"
+    },
+    {
+      "token": " Atlas",
+      "probability": 0.002567437426768851,
+      "level": "LOW"
+    },
+    {
+      "token": " who",
+      "probability": 0.9590073999157503,
+      "level": "HIGH"
+    },
+    {
+      "token": " was",
+      "probability": 0.6810460243631248,
+      "level": "HIGH"
+    },
+    {
+      "token": " programmed",
+      "probability": 0.5592500724396788,
+      "level": "HIGH"
+    },
+    {
+      "token": " to",
+      "probability": 0.6974242958437693,
+      "level": "HIGH"
+    },
+    {
+      "token": " do",
+      "probability": 0.3228926901462091,
+      "level": "HIGH"
+    },
+    {
+      "token": " manual",
+      "probability": 0.05103500553391149,
+      "level": "MEDIUM"
+    },
+    {
+      "token": " labor",
+      "probability": 0.9588659865759125,
+      "level": "HIGH"
+    },
+    {
+      "token": ".",
+      "probability": 0.7741190020586729,
+      "level": "HIGH"
+    },
+    {
+      "token": " However",
+      "probability": 0.2892341632287239,
+      "level": "HIGH"
+    },
+    {
+      "token": ",",
+      "probability": 0.9999849060535678,
+      "level": "HIGH"
+    },
+    {
+      "token": " one",
+      "probability": 0.5457841218286951,
+      "level": "HIGH"
+    },
+    {
+      "token": " day",
+      "probability": 0.9997813484848203,
+      "level": "HIGH"
+    },
+    {
+      "token": ",",
+      "probability": 0.6060447061347648,
+      "level": "HIGH"
+    },
+    {
+      "token": " he",
+      "probability": 0.7392815544080842,
+      "level": "HIGH"
+    },
+    {
+      "token": " stumbled",
+      "probability": 0.8399580299930424,
+      "level": "HIGH"
+    },
+    {
+      "token": " upon",
+      "probability": 0.9905163287778811,
+      "level": "HIGH"
+    },
+    {
+      "token": " a",
+      "probability": 0.6955227931974455,
+      "level": "HIGH"
+    },
+    {
+      "token": " painting",
+      "probability": 0.29331408695520694,
+      "level": "HIGH"
+    },
+    {
+      "token": " in",
+      "probability": 0.007121102828305379,
+      "level": "LOW"
+    },
+    {
+      "token": " a",
+      "probability": 0.30518021693998015,
+      "level": "HIGH"
+    },
+    {
+      "token": " garbage",
+      "probability": 0.018776046833905585,
+      "level": "LOW"
+    },
+    {
+      "token": " pile",
+      "probability": 0.0862262906844612,
+      "level": "MEDIUM"
+    },
+    {
+      "token": " and",
+      "probability": 0.9907968815472168,
+      "level": "HIGH"
+    },
+    {
+      "token": " was",
+      "probability": 0.3476102183268979,
+      "level": "HIGH"
+    },
+    {
+      "token": " fascinated",
+      "probability": 0.5734269158052062,
+      "level": "HIGH"
+    },
+    {
+      "token": " by",
+      "probability": 0.9798329125068117,
+      "level": "HIGH"
+    },
+    {
+      "token": " the",
+      "probability": 0.6592642425887402,
+      "level": "HIGH"
+    },
+    {
+      "token": " colors",
+      "probability": 0.7852211529609034,
+      "level": "HIGH"
+    },
+    {
+      "token": " and",
+      "probability": 0.9891922483073291,
+      "level": "HIGH"
+    },
+    {
+      "token": " shapes",
+      "probability": 0.2323547644278087,
+      "level": "HIGH"
+    },
+    {
+      "token": ".",
+      "probability": 0.9642602118225895,
+      "level": "HIGH"
+    },
+    {
+      "token": " He",
+      "probability": 0.36168163482548815,
+      "level": "HIGH"
+    },
+    {
+      "token": " then",
+      "probability": 0.18741599255221042,
+      "level": "MEDIUM"
+    },
+    {
+      "token": " decided",
+      "probability": 0.0870891163984921,
+      "level": "MEDIUM"
+    },
+    {
+      "token": " to",
+      "probability": 0.9998364026535589,
+      "level": "HIGH"
+    },
+    {
+      "token": " re",
+      "probability": 0.06763187468257373,
+      "level": "MEDIUM"
+    },
+    {
+      "token": "program",
+      "probability": 0.9285028487240964,
+      "level": "HIGH"
+    },
+    {
+      "token": " himself",
+      "probability": 0.9959553325168476,
+      "level": "HIGH"
+    },
+    {
+      "token": " to",
+      "probability": 0.9303329823075004,
+      "level": "HIGH"
+    },
+    {
+      "token": " learn",
+      "probability": 0.7150493237586514,
+      "level": "HIGH"
+    },
+    {
+      "token": " how",
+      "probability": 0.903211267148835,
+      "level": "HIGH"
+    },
+    {
+      "token": " to",
+      "probability": 0.9999915813750997,
+      "level": "HIGH"
+    },
+    {
+      "token": " paint",
+      "probability": 0.9922714982596278,
+      "level": "HIGH"
+    },
+    {
+      "token": " and",
+      "probability": 0.40946196998939105,
+      "level": "HIGH"
+    },
+    {
+      "token": " soon",
+      "probability": 0.3721643820294638,
+      "level": "HIGH"
+    },
+    {
+      "token": " became",
+      "probability": 0.9654841183709906,
+      "level": "HIGH"
+    },
+    {
+      "token": " a",
+      "probability": 0.8168767078090677,
+      "level": "HIGH"
+    },
+    {
+      "token": " renowned",
+      "probability": 0.5197916296812397,
+      "level": "HIGH"
+    },
+    {
+      "token": " artist",
+      "probability": 0.9924970229875358,
+      "level": "HIGH"
+    },
+    {
+      "token": ",",
+      "probability": 0.7704593954337888,
+      "level": "HIGH"
+    },
+    {
+      "token": " creating",
+      "probability": 0.11606150053425014,
+      "level": "MEDIUM"
+    },
+    {
+      "token": " beautiful",
+      "probability": 0.5642420374871674,
+      "level": "HIGH"
+    },
+    {
+      "token": " and",
+      "probability": 0.25146786488012174,
+      "level": "HIGH"
+    },
+    {
+      "token": " unique",
+      "probability": 0.8297417223943704,
+      "level": "HIGH"
+    },
+    {
+      "token": " pieces",
+      "probability": 0.635688995989971,
+      "level": "HIGH"
+    },
+    {
+      "token": " that",
+      "probability": 0.7054500540548595,
+      "level": "HIGH"
+    },
+    {
+      "token": " no",
+      "probability": 0.21122705075101206,
+      "level": "HIGH"
+    },
+    {
+      "token": " other",
+      "probability": 0.5606273744944671,
+      "level": "HIGH"
+    },
+    {
+      "token": " robot",
+      "probability": 0.9836689780727004,
+      "level": "HIGH"
+    },
+    {
+      "token": " could",
+      "probability": 0.7906647971582556,
+      "level": "HIGH"
+    },
+    {
+      "token": " replicate",
+      "probability": 0.5668912638217527,
+      "level": "HIGH"
+    },
+    {
+      "token": ".",
+      "probability": 0.9741850921284877,
+      "level": "HIGH"
+    }
+  ],
+  "statistics": {
+    "high": 64,
+    "medium": 6,
+    "low": 3,
+    "total": 73
+  }
+}
